@@ -1,0 +1,12 @@
+statement-->declararion statement
+
+declaration--> TYPE ID1 @
+
+TYPE--> (number) Int -->(DataType:- INT)
+ID1-->ID1,ID
+       |
+       |
+       ID1,ID
+       |
+       |
+       ID

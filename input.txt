@@ -1,0 +1,60 @@
+Sornaly stdio.h
+Sornaly stdlib.h
+Sornaly string.h
+Sornaly math.h
+
+!!main body!!
+
+JATRA
+SURU 
+
+!!declaration!!
+number AA,BB,CC @
+floating XX @
+line AdD @
+
+!!assignment!!
+XX => 10 @
+BB =>30 @
+AA =>20 @
+
+!!mathematical part!!
+CC  => SUB(2,3) @
+CC  => MUL(AA,BB) @
+CC  => DIV(AA,BB) @
+CC  => ADD(AA,BB) @
+CC  => 3 POW 4 @
+
+!!This is my roll!!
+CC  =>  ADD( ADD(3,4),BB) @
+
+XX  => SIN(90) @
+XX  => COS(90) @
+XX  => TAN(90) @
+XX  => LOG10(2) @
+XX  => LOG(3) @
+
+!!function call!!
+SHOW(XX) @
+SHOW(BB) @
+
+IF(30) {ADD(3,2)}
+IF(31){ADD(3,2)} ELSE{ADD(3,3)}
+!!IF(21){ADD(3,5)} ELSEIF(0){ADD(3,2)} ELSE{ADD(3,3)}!!
+
+IF(BB GREATER 20){ ADD(3,2)}
+IF(BB LESSER 40){  ADD(3,2)}
+
+AA => MAX(10,15) @
+AA => GCD(10,15) @
+
+!!loop!!
+FOR(3 @ 10 @ 2) @
+FOR(30   @10   @-2) @
+
+SHOW(AA) @
+FOR(AA   @40   @5) @ 
+
+!!IF(b=30){  ADD(3,2)} ELSEIF(b=30){  ADD(8,2)} ELSE{  ADD(3,3)} a => MIN(10,15)@ !! 
+
+SES
